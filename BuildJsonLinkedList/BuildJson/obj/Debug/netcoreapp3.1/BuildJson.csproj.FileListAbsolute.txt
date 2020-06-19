@@ -1,0 +1,15 @@
+C:\Users\sdas\Desktop\BuildJson\BuildJson\bin\Debug\netcoreapp3.1\BuildJson.exe
+C:\Users\sdas\Desktop\BuildJson\BuildJson\obj\Debug\netcoreapp3.1\BuildJson.csprojAssemblyReference.cache
+C:\Users\sdas\Desktop\BuildJson\BuildJson\obj\Debug\netcoreapp3.1\BuildJson.AssemblyInfoInputs.cache
+C:\Users\sdas\Desktop\BuildJson\BuildJson\obj\Debug\netcoreapp3.1\BuildJson.AssemblyInfo.cs
+C:\Users\sdas\Desktop\BuildJson\BuildJson\bin\Debug\netcoreapp3.1\BuildJson.deps.json
+C:\Users\sdas\Desktop\BuildJson\BuildJson\bin\Debug\netcoreapp3.1\BuildJson.runtimeconfig.json
+C:\Users\sdas\Desktop\BuildJson\BuildJson\bin\Debug\netcoreapp3.1\BuildJson.runtimeconfig.dev.json
+C:\Users\sdas\Desktop\BuildJson\BuildJson\bin\Debug\netcoreapp3.1\BuildJson.dll
+C:\Users\sdas\Desktop\BuildJson\BuildJson\bin\Debug\netcoreapp3.1\BuildJson.pdb
+C:\Users\sdas\Desktop\BuildJson\BuildJson\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sdas\Desktop\BuildJson\BuildJson\obj\Debug\netcoreapp3.1\BuildJson.csproj.CopyComplete
+C:\Users\sdas\Desktop\BuildJson\BuildJson\obj\Debug\netcoreapp3.1\BuildJson.dll
+C:\Users\sdas\Desktop\BuildJson\BuildJson\obj\Debug\netcoreapp3.1\BuildJson.pdb
+C:\Users\sdas\Desktop\BuildJson\BuildJson\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\sdas\Desktop\BuildJson\BuildJson\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
